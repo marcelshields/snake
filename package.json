@@ -1,0 +1,11 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "An interpretation of the classic snake game.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Marcel Shields",
+  "license": "ISC"
+}
